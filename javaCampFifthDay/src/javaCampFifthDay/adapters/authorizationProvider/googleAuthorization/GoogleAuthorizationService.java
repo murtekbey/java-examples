@@ -1,0 +1,7 @@
+package javaCampFifthDay.adapters.authorizationProvider.googleAuthorization;
+
+import javaCampFifthDay.adapters.authorizationProvider.AuthorizationProviderService;
+
+public interface GoogleAuthorizationService extends AuthorizationProviderService {
+
+}
